@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{cv.html}, showsource, analytics{UA-126705648-1}
+= Curriculum Vitae --- Tobias K. S. Ritschel
+
+== Personal information
+:{*Name*} Tobias Kasper Skovborg Ritschel
+:{*Nationality*} Danish
+:{*Date of birth*} July 30th, 1991
+:{*Gender*} Male
+
+== Employment
+:{*2019-present*: Scientific Computing Software Engineer}
+[http://www.2-control.dk 2-control ApS]
+
+== Research projects
+[https://www.cocop-spire.eu/ COCOP] (Coordinating Optimisation of Complex Industrial Processes).\n
+[http://www.cere.dtu.dk/research-and-projects/framework-research-projects/option OPTION] (Optimizing Oil Production by Novel Technology Integration).
+
+== Teaching activities
+:{*MSc project co-supervision*}
+Ríkharður Þór Rögnvaldsson - [https://findit.dtu.dk/en/catalog/2451091220 Model Predictive Control for an Industrial Aluminium Holding Furnace]\n
+André Kofoed Drejer - [http://findit.dtu.dk/en/catalog/2371663002 Numerical Methods for Dynamical Optimization of Single-Cell Protein Production in a U-Loop Reactor]
+
+:{*BSc project co-supervision*}
+Frederik Winkel Lehn - [http://findit.dtu.dk/en/catalog/2306906907 Multi Scale Modelling for Efficient Simulation of Oil Reservoirs]\n
+Jakob Henning Jensen - [http://findit.dtu.dk/en/catalog/2306781423 Monte Carlo Simulation and Parameter Estimation in Differential Equations]\n
+Mathias Sorgenfri Lorenz - [http://findit.dtu.dk/en/catalog/2306769371 High-Performance Computing for Optimal Control of PDE Systems]
+
+:{*Guest lecturer*}
+[http://kurser.dtu.dk/course/02612 02612] - Constrained Optimization, spring 2019\n
+
+:{*Teaching assistant*}
+[http://kurser.dtu.dk/course/02612 02612] - Constrained Optimization, spring 2016\n
+[http://kurser.dtu.dk/course/02610 02610] - Optimization and Datafitting, fall 2015\n
+[http://kurser.dtu.dk/course/01907 01907] - Calculus and Algebra 2, spring 2014\n
+[http://kurser.dtu.dk/course/01906 01906] - Calculus and Algebra 1, fall 2013\n
+[http://kurser.dtu.dk/course/01330 01330] - Mathematics 3 -- Entrance to Advanced Mathematics, january 2013
+
+== Education
+: {*2015--2018*: [http://www.compute.dtu.dk/english/phd PhD in Applied Mathematics]}
+Department of Applied Mathematics and Computer Science, Technical University of Denmark\n
+PhD Thesis: [http://orbit.dtu.dk/en/publications/nonlinear-model-predictive-control-for-oil-reservoirs(bc7cbeb1-b3d6-4e8d-8185-22e61802747f).html Nonlinear Model Predictive Control for Oil Reservoirs]
+
+:{*2013--2015*: [http://www.dtu.dk/english/education/msc/programmes/mathematical_modelling_and_computation MSc in Mathematical Modeling and Computation]}
+Technical University of Denmark\n
+MSc Thesis: [http://findit.dtu.dk/en/catalog/2292735808 High-Performance Computing for PDE Constrained Optimization in Oil Reservoirs Management]
+
+:{*2010--2013*: [http://www.dtu.dk/english/education/bachelor-beng-and-bsc-/bsc/programmes-in-danish/mathematics-and-technology BSc in Mathematics and Technology]}
+Technical University of Denmark\n
+BSc Thesis: [http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6607 Numerical Methods For Solution of Differential Equations]
+
+:{*2007--2010*: Technical High School}
+Frederiksberg Technical High School\n
+A-level in mathematics and physics
