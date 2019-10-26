@@ -20,6 +20,5 @@ MENU			= MENU
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@./jemdoc.py $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
-	@cp $(HTMLDIR)/index.html ./
 #	@scp -r $(TARGET) $(PHOTO) $(STYLE) src $(USER)@$(SERVER)
 	
