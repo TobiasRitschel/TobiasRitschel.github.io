@@ -14,11 +14,9 @@ SOURCE 		= $(wildcard $(SOURCEDIR)/*.jemdoc)
 TARGET 		= $(addprefix $(HTMLDIR)/, $(notdir $(SOURCE:.jemdoc=.html)))
 PHOTO  		= pic/$(USER).jpg
 STYLE  		= css/jemdoc.css
-MENU			= MENU
+MENU			= MENU #src/MENU # MAYBE THIS SHOULD JUST BE "MENU"?
 
 # IF index.jemdoc IS MODIFIED RECOMPILE index.html AND SEND TO IMM SERVER #
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
-	@./jemdoc.py $(SOURCE)
-	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
-#	@scp -r $(TARGET) $(PHOTO) $(STYLE) src $(USER)@$(SERVER)
-	
+	@jemdoc $(SOURCE)
+	@mv $(SOURCEDIR)/*.html $(HTMLDIR)	

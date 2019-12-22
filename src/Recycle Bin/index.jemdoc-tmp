@@ -1,0 +1,133 @@
+# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-126705648-1}
+= Tobias Kasper Skovborg Ritschel
+
+~~~
+{}{img_left}{./tobk.jpg}{}{120}{160}{}
+Tobias Kasper Skovborg Ritschel, PhD Student at\n
+
+[http://www.compute.dtu.dk/english Department of Applied Mathematics and Computer Science]\n
+[http://www.cere.dtu.dk/ Center for Energy Resources Engineering]\n
+[http://www.dtu.dk/english Technical University of Denmark]\n
+
+University supervisors: [http://www2.imm.dtu.dk/~jbjo/ John Bagterp Jørgensen], [http://orbit.dtu.dk/en/persons/andrea-capolei(72ebcb80-bfc7-40e9-a955-504e449d6782).html Andrea Capolei]
+#[http://www2.imm.dtu.dk/~acap/ Andrea Capolei]
+~~~
+
+== Contact
+- E-mail: tobk@dtu.dk, TobiasRitschel@gmail.dk
+- Tel: +45 6062 1486
+
+#~~~
+#{}{raw}
+#<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5843-240X" href="https://orcid.org/0000-0002-5843-240X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5843-240X</a></div>
+#~~~
+
+#~~~
+#{}{raw}
+#<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+#<a href="http://dk.linkedin.com/in/tobiasritschel">
+#      
+#          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Tobias Ritschel's profile on LinkedIn">
+#        
+#    </a>
+#~~~
+
+== Research interests
+- Nonlinear model predictive control
+- Dynamic optimization
+- State estimation
+- Closed-loop reservoir management
+- High-performance computing
+- Reservoir simulation
+#- Multi-scale Modelling
+
+== Research projects
+PhD student in the [http://www.cere.dtu.dk/Research-and-Projects/Research-Projects/OPTION OPTION] project (Optimizing Oil Production by Novel Technology Integration).
+
+== Journal publications
+. *Ritschel, T.K.S.*, and Jørgensen, J.B., 2018. Dynamic Optimization of Thermodynamically Rigorous Models of Multiphase Flow in Porous Subsurface Oil Reservoirs. Journal of Process Control. In submission.
+. *Ritschel, T.K.S.*, Capolei, A., Gaspar, J., and Jørgensen, J.B., 2018. An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes. Computers and Chemical Engineering 114, 281--295. DOI: [https://doi.org/10.1016/j.compchemeng.2017.10.007 10.1016/j.compchemeng.2017.10.007].
+
+== Peer-reviewed conference publications
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2019. Nonlinear Model Predictive Control for Disturbance Rejection in Isoenergetic-isochoric Flash Processes. *In:* /Proceedings of the 12th IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems/, Florianopólis, Brazil, April 23-26. In submission.
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Nonlinear Filters for State Estimation of UV Flash Processes. *In:* /Proceedings of the 2nd IEEE Conference on Control Technology and Applications/, 1753--1760, Copenhagen, Denmark, August 21-24. DOI: [http://orbit.dtu.dk/en/publications/nonlinear-filters-for-state-estimation-of-uv-flash-processes(074fbc8b-bd92-4d99-b698-8cad0c852084).html 10.1109/CCTA.2018.8511532].#[https://doi.org/10.1109/CCTA.2018.8511532 10.1109/CCTA.2018.8511532].
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. The Extended Kalman Filter for State Estimation of Dynamic UV Flash Processes. IFAC-PapersOnLine, 51(8), 164--169. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.372 10.1016/j.ifacol.2018.06.372].
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Computation of Phase Equilibrium in Reservoir Simulation and Optimization. IFAC-PapersOnLine 51(8), 94--101. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.361 10.1016/j.ifacol.2018.06.361].
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Production Optimization of a Rigorous Thermal and Compositional Reservoir Flow Model. IFAC-PapersOnLine 51(8), 76--81. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.358 10.1016/j.ifacol.2018.06.358].
+. *Ritschel, T.K.S.*, Capolei, A., Jørgensen, J.B., 2017. The Adjoint Method for Gradient-based Dynamic Optimization of UV Flash Processes. Computer Aided Chemical Engineering 40, 2071--2076. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50347-0 10.1016/B978-0-444-63965-3.50347-0].
+. Drejer, A., *Ritschel, T.K.S.*, Jørgensen, S.B., Jørgensen, J.B., 2017. Economic Optimizing Control for Single-Cell Protein Production in a U-loop Reactor. Computer Aided Chemical Engineering 40, 1759--1764. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50295-6 10.1016/B978-0-444-63965-3.50295-6].
+. Gaspar, J., *Ritschel, T.K.S.*, Jørgensen, J.B., 2017. An Efficient and Rigorous Thermodynamic Library and Optimal-control of a Cryogenic Air Separation Unit. Computer Aided Chemical Engineering 40, 1543--1548. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50259-2 10.1016/B978-0-444-63965-3.50259-2].
+. *Ritschel, T.K.S.*, Gaspar, J., Jørgensen, J.B., 2017. A Thermodynamic Library for Simulation and Optimization of Dynamic Processes. IFAC-PapersOnLine 50(1), 3542--3547. DOI: [https://doi.org/10.1016/j.ifacol.2017.08.951 10.1016/j.ifacol.2017.08.951].
+. *Ritschel, T.K.S.*, Capolei, A., Jørgensen, J.B., 2017. Dynamic Optimization of UV Flash Processes. *In:* /Proceedings of Foundations of Computer Aided Process Operations \/ Chemical Process Control 2017/, January 8-12, Tucson, Arizona, USA. [http://orbit.dtu.dk/en/publications/dynamic-optimization-of-uv-flash-processes(6aea0b8a-09bd-443c-91d7-8aaebd3daf15).html Link].
+
+== Additional conference publications
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Production Optimization of Thermodynamically Rigorous Isothermal and Compositional Models. *In:* /Proceedings of the 16th European Conference on the Mathematics of Oil Recovery/, September 3-6, Barcelona, Spain. DOI: [https://doi.org/10.3997/2214-4609.201802112 10.3997/2214-4609.201802112].
+
+== Technical reports
+. *Ritschel, T.K.S.*, Jørgensen, J.B., 2017. Computation of Phase Equilibrium and Phase Envelopes. DTU Compute Technical Report-2017-11, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/id(bcd25ae4-ccf2-4e20-9279-459271b6ce73).html Link].
+. *Ritschel, T.K.S.*, Gaspar, J., Capolei, A., Jørgensen, J.B., 2016. An Open-source Thermodynamic Software Library. DTU Compute Technical Report-2016-12, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/an-opensource-thermodynamic-software-library(ebe0a493-c3fe-48d3-8d18-092bacf3e980).html Link].
+
+== Oral presentations
+. /Nonlinear Model Predictive Control for Oil Reservoirs/, OPTION Internal Closing Seminar, November 6, 2018, Lloyd's Register Consulting, DK-2900, Hellerup, Denmark.
+. /Nonlinear Model Predictive Control for Oil Reservoir Production Optimization/, October 4, 2018, GEUS, DK-1350 Copenhagen, Denmark.
+. /Production Optimization of Thermodynamically rigorous Isothermal and Compositional Models/, The 16th European Conference on the Mathematics of Oil Recovery, September 3-6, 2018, World Trade Center of Barcelona, 08039 Barcelona, Spain.
+. /Nonlinear Filters for State Estimation of UV flash processes/, The 2nd IEEE Conference on Control Technology and Applications, August 21-24, 2018, Scandic Hotel Copenhagen, DK-1601 Copenhagen V, Denmark.
+. /Nonlinear Model Predictive Control of UV Flash Processes/, CERE External Discussion Meeting, June 18-20, 2018, Hotel Rungstedgaard, DK-2960 Rungsted Kyst, Denmark.
+. /State Estimation, Dynamic Optimization, and Nonlinear Model Predictive Control of DAE Systems/, Project Meeting, June 8, 2018, Ørsted, DK-2820 Gentofte, Denmark.
+. /The Extended Kalman Filter for State Estimation of Dynamic UV Flash Processes/, The 3rd IFAC Workshop on Automatic Control in Offshore Oil and Gas Production, May 30 - June 1, 2018, DK-6700 Esbjerg, Denmark.
+. /Production Optimization of a Rigorous Thermal and Compositional Reservoir Flow model/, The 3rd IFAC Workshop on Automatic Control in Offshore Oil and Gas Production, May 30 - June 1, 2018, DK-6700 Esbjerg, Denmark.
+. /Computation of Phase Equilibrium in Reservoir Simulation and Optimization/, The 3rd IFAC Workshop on Automatic Control in Offshore Oil and Gas Production, May 30 - June 1, 2018, DK-6700 Esbjerg, Denmark.
+. /Nonlinear Model Predictive Control for Oil Reservoirs/, Project Meeting, April 6, 2018, Department of Chemical and Biochemical Engineering, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /State Estimation of UV Flash Processes/, CERE Seminar, April 5, 2018, Department of Chemical and Biochemical Engineering, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /Presentation of the article "An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes"/, CERE Seminar, February 15, 2018, Department of Chemical and Biochemical Engineering, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /Optimal Control of Compositional and Thermal Recovery Processes/, CERE Seminar, December 1, 2017, Department of Applied Mathematics and Computer Science, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /A Thermodynamic Library for Simulation and Optimization of Dynamic Processes/, The 20th World Congress of the International Federation of Automatic Control, July 9-14, 2017, 31000 Toulouse, France.
+. /Production Optimization in Oil Reservoirs Management/, OPTION Seminar, May 24, 2017, Lloyd's Register Consulting, DK-2900, Hellerup, Denmark.
+. /Optimal Control for Oil Reservoir Production/, PhD Seminar, October 6, 2016, Department of Applied Mathematics and Computer Science, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes/, CERE External Discussion Meeting, June 15-17, 2016, Comwell Borupgaard, DK-3070 Snekkersten, Denmark.
+. /An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes/, OPTION Annual Meeting 2016, May 9, 2016, Dong Energy, DK-2820 Gentofte, Denmark.
+. /PDE-Constrained Optimization in Oil Reservoirs Management/, 02685 Scientific Computing, May 8, 2017, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes/, CERE Seminar, February 18, 2016, Department of Chemical and Biochemical Engineering, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /High-performance Computing for PDE Constrained Optimization in Oil Reservoirs Management/, CERE Seminar, September 24, 2015, Department of Chemical and Biochemical Engineering, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /High-performance Computing for PDE Constrained Optimization in Oil Reservoirs Management/, OPTION Seminar, September 3, 2015, Lloyd's Register Consulting, DK-2900, Hellerup, Denmark.
+
+== Poster presentations
+. /Nonlinear Model Predictive Control for Closed-loop Reservoir Management/, PhD Bazaar, May 7, 2018, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /Optimal Control of Compositional and Thermal Recovery Processes/, SPE Copenhagen Meeting, November 21, 2017, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /Optimal Control of Compositional and Thermal Recovery Processes/, DHRTC Technology Conference 2017, November 14-15, 2017, Comwell Kolding, DK-6000, Kolding, Denmark.
+. /The Adjoint Method for Gradient-based Dynamic Optimization of UV Flash Processes/, The 27th European Symposium on Computer Aided Process Engineering, October 1-5, Barcelona, Spain.
+. /Dynamic Optimization of UV Flash Processes/, CERE External Discussion Meeting, June 21-23, 2017, Comwell Borupgaard, DK-3070 Snekkersten, Denmark.
+. /Dynamic Optimization in Oil Reservoirs Management/, PhD Bazaar, May 10, 2017, Technical University of Denmark, DK-2800 Kgs. Lyngby, Denmark.
+. /Computational Aspects of the UV Flash Problem for Dynamic Optimization and Nonlinear Model Predictive Control/, 20th Nordic Process Control Workshop, August 25-26, 2016, Sigtunastiftelsen, Sigtuna 193 22, Sweden.
+. /An Algorithm for Gradient-based Dynamic Optimization of UV Flash Processes/, CERE External Discussion Meeting, June 15-17, 2016, Comwell Borupgaard, DK-3070 Snekkersten, Denmark.
+
+== MSc project co-supervision
+- André Kofoed Drejer - [http://findit.dtu.dk/en/catalog/2371663002 Numerical Methods for Dynamical Optimization of Single-Cell Protein Production in a U-Loop Reactor].
+
+== BSc project co-supervision
+- Frederik Winkel Lehn - [http://findit.dtu.dk/en/catalog/2306906907 Multi Scale Modelling for Efficient Simulation of Oil Reservoirs].
+- Jakob Henning Jensen - [http://findit.dtu.dk/en/catalog/2306781423 Monte Carlo Simulation and Parameter Estimation in Differential Equations].
+- Mathias Sorgenfri Lorenz - [http://findit.dtu.dk/en/catalog/2306769371 High-Performance Computing for Optimal Control of PDE Systems].
+
+== Teaching assistant
+- [http://kurser.dtu.dk/course/02612 02612] Constrained Optimization, Spring 2016.
+- [http://kurser.dtu.dk/course/02610 02610] Optimization and Datafitting, Fall 2015.
+- [http://kurser.dtu.dk/course/01907 01907] Calculus and Algebra 2, Spring 2014.
+- [http://kurser.dtu.dk/course/01906 01906] Calculus and Algebra 1, Fall 2013.
+- [http://kurser.dtu.dk/course/01330 01330] Mathematics 3 -- Entrance to Advanced Mathematics, January 2013.
+
+== Education
+- 2015-2018: [http://www.compute.dtu.dk/english/phd PhD in Applied Mathematics] at the Technical University of Denmark. [http://orbit.dtu.dk/en/publications/nonlinear-model-predictive-control-for-oil-reservoirs(bc7cbeb1-b3d6-4e8d-8185-22e61802747f).html Link to PhD thesis].
+- 2013-2015: [http://www.dtu.dk/english/education/msc/programmes/mathematical_modelling_and_computation MSc in Mathematical Modeling and Computation] at the Technical University of Denmark. [http://findit.dtu.dk/en/catalog/2292735808 Link to MSc thesis].
+- 2010-2013: [http://www.dtu.dk/english/education/bachelor-beng-and-bsc-/bsc/programmes-in-danish/mathematics-and-technology BSc in Mathematics \& Technology] at the Technical University of Denmark. [http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6607 Link to BSc thesis].
+
+== Public profiles
+- [http://orbit.dtu.dk/en/persons/tobias-kasper-skovborg-ritschel(a350993c-cb5b-456b-96b4-f7e46f437916).html DTU Orbit]
+- [https://dk.linkedin.com/in/tobiasritschel LinkedIn]
+- [https://orcid.org/0000-0002-5843-240X ORCID]
+- [https://scholar.google.com/citations?user=ra88UJYAAAAJ&hl=en Google Scholar]
+- [https://www.researchgate.net/profile/Tobias_Ritschel ResearchGate]
+- [http://www.researcherid.com/rid/A-8267-2018 ResearcherID]
+- [https://www.scopus.com/authid/detail.uri?authorId=57196097177 Scopus]
+- [https://www.mendeley.com/profiles/tobias-ritschel2/ Mendeley]
+- [http://forskningsdatabasen.dk/en/catalog/2397986061 Danish National Research Database]
