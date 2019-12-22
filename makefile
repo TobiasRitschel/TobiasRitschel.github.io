@@ -14,4 +14,4 @@ MENU		= MENU
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@jemdoc $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
-	@mv $(HTMLDIR)/index.html ./index.html
+	@cp $(HTMLDIR)/index.html $(PHOTO) $(STYLE) .
