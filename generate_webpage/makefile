@@ -10,8 +10,15 @@ PHOTO  		= pic/$(USER).jpg
 STYLE  		= css/jemdoc.css
 MENU		= MENU
 
-# IF index.jemdoc IS MODIFIED RECOMPILE index.html AND SEND TO IMM SERVER #
+# IF index.jemdoc IS MODIFIED RECOMPILE index.html AND MOVE TO TOP-LEVEL FOLDER #
+all: $(TARGET)
+
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@jemdoc $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
-	@cp $(HTMLDIR)/index.html $(PHOTO) $(STYLE) .
+	@cp -r $(TARGET) $(PHOTO) $(STYLE) ..
+
+clean:
+	@rm ./*.html
+	@rm ./$(USER).jpg
+	\rm ./jemdoc.css
