@@ -9,16 +9,17 @@ TARGET 		= $(addprefix $(HTMLDIR)/, $(notdir $(SOURCE:.jemdoc=.html)))
 PHOTO  		= pic/$(USER).jpg
 STYLE  		= css/jemdoc.css
 MENU		= MENU
+WEBSITE 	= \
+	$(addprefix ../, $(notdir $(SOURCE:.jemdoc=.html))) \
+	$(addprefix ../, $(notdir $(PHOTO))) \
+	$(addprefix ../, $(notdir $(STYLE)))
 
 # IF index.jemdoc IS MODIFIED RECOMPILE index.html AND MOVE TO TOP-LEVEL FOLDER #
-all: $(TARGET)
+all: $(WEBSITE) $(TARGET)
 
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@jemdoc $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
-	@cp -r $(TARGET) $(PHOTO) $(STYLE) ..
 
-clean:
-	@rm ./*.html
-	@rm ./$(USER).jpg
-	\rm ./jemdoc.css
+$(WEBSITE): $(TARGET)
+	@cp -r $(TARGET) $(PHOTO) $(STYLE) ..
