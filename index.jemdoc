@@ -1,0 +1,67 @@
+# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-126705648-1}
+= Tobias Kasper Skovborg Ritschel
+
+~~~
+{}{img_left}{./tksr.jpg}{}{120}{160}{}
+Tobias K. S. Ritschel\n
+/Scientific Computing Software Engineer/\n\n
+2-control ApS\n
+DK-2800 Kgs. Lyngby\n
+Denmark\n
+[mailto:info@2-control.dk info@2-control.dk]\n
+[http://www.2-control.dk www.2-control.dk]
+~~~
+
+== Contact
+- E-mail: [mailto:tksr@2-control.dk tksr@2-control.dk], [mailto:tobk@dtu.dk tobk@dtu.dk]
+- Tel: [tel:+4560621486 +45 6062 1486]
+
+#~~~
+#{}{raw}
+#<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5843-240X" href="https://orcid.org/0000-0002-5843-240X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5843-240X</a></div>
+#~~~
+
+#~~~
+#{}{raw}
+#<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+#<a href="http://dk.linkedin.com/in/tobiasritschel">
+#      
+#          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Tobias Ritschel's profile on LinkedIn">
+#        
+#    </a>
+#~~~
+
+== Core competences
+*/Algorithms/*:\n
+Nonlinear model predictive control | Optimal control | Dynamic optimization | \n
+State estimation | Numerical solution of differential equations | Numerical optimization
+
+#=== Mathematical modeling
+*/Mathematical modeling/*:\n
+Stochastic differential equations | Partial differential equations | Differential-algebraic equations
+
+*/Programming/*:\n
+C/C\+\+ | C\# | Python | Matlab
+
+#- Nonlinear model predictive control
+#- Dynamic optimization
+#- State estimation
+##- Closed-loop reservoir management
+#- High-performance computing
+##- Reservoir simulation
+##- Multi-scale Modelling
+
+== Public profiles
+#- [http://orbit.dtu.dk/en/persons/tobias-kasper-skovborg-ritschel(a350993c-cb5b-456b-96b4-f7e46f437916).html DTU Orbit]
+- [https://dk.linkedin.com/in/tobiasritschel LinkedIn]
+- [https://github.com/TobiasRitschel Github]
+- [https://orcid.org/0000-0002-5843-240X ORCID]
+- [https://scholar.google.com/citations?user=ra88UJYAAAAJ&hl=en Google Scholar]
+- [https://www.researchgate.net/profile/Tobias_Ritschel ResearchGate]
+- [http://www.researcherid.com/rid/A-8267-2018 ResearcherID]
+- [https://www.scopus.com/authid/detail.uri?authorId=57196097177 Scopus]
+- [https://www.mendeley.com/profiles/tobias-k-s-ritschel/ Mendeley]
+- [http://forskningsdatabasen.dk/en/catalog/2397986061 Danish National Research Database]
+
+== Websites
+- [http://psetools.org/ PSE Tools]

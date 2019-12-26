@@ -22,4 +22,4 @@ $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
 
 $(WEBSITE): $(TARGET)
-	@cp -r $(TARGET) $(PHOTO) $(STYLE) ..
+	@cp $(TARGET) $(PHOTO) $(STYLE) $(SOURCE) ..

@@ -6,3 +6,4 @@ clean:
 	@rm ./*.html
 	@rm ./*.jpg
 	@rm ./*.css
+	@rm -r ./src
