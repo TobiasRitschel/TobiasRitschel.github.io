@@ -14,13 +14,18 @@ WEBSITE 	= \
 	$(addprefix ../, $(notdir $(PHOTO))) \
 	$(addprefix ../, $(notdir $(STYLE)))
 
+.phone: all clean
+
 # IF index.jemdoc IS MODIFIED RECOMPILE index.html AND MOVE TO TOP-LEVEL FOLDER #
 all: $(WEBSITE) $(TARGET)
+
+$(WEBSITE): $(TARGET)
+	@cp $(TARGET) $(PHOTO) $(STYLE) ..
+	@cp -r $(SOURCEDIR) ..
 
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
 	@jemdoc $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
 
-$(WEBSITE): $(TARGET)
-	@cp $(TARGET) $(PHOTO) $(STYLE) ..
-	@cp -r $(SOURCEDIR) ..
+clean:
+	@rm $(HTMLDIR)/*
