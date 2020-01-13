@@ -7,3 +7,5 @@ clean:
 	@rm ./*.jpg
 	@rm ./*.css
 	@rm -r ./src
+	@make -C ./generate_webpage clean
+
