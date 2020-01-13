@@ -4,17 +4,15 @@
 ~~~
 {}{img_left}{./tksr.jpg}{}{120}{160}{}
 Tobias K. S. Ritschel\n
-/Scientific Computing Software Engineer/\n\n
-2-control ApS\n
-DK-2800 Kgs. Lyngby\n
-Denmark\n
-[mailto:info@2-control.dk info@2-control.dk]\n
-[http://www.2-control.dk www.2-control.dk]
+Postdoctoral Researcher in the Simulation of Energy Systems team
+Team Leader: [https://www.mpi-magdeburg.mpg.de/person/26586 Sara Grundel]
+Computational Methods in Systems and Control Theory
+Max Planck Institute for Dynamics of Complex Technical Systems
 ~~~
 
 == Contact
-- E-mail: [mailto:tksr@2-control.dk tksr@2-control.dk], [mailto:tobk@dtu.dk tobk@dtu.dk]
-- Tel: [tel:+4560621486 +45 6062 1486]
+- E-mail: [mailto:ritschel@mpi-magdeburg.mpg.de ritschel@mpi-magdeburg.mpg.de]\n
+- Tel: [tel:+493916110349 +49 391 6110 349]
 
 #~~~
 #{}{raw}
@@ -34,7 +32,8 @@ Denmark\n
 == Core competences
 */Algorithms/*:\n
 Nonlinear model predictive control | Optimal control | Dynamic optimization | \n
-State estimation | Numerical solution of differential equations | Numerical optimization
+State estimation | Numerical solution of differential equations | Numerical optimization | \n
+Model order reduction
 
 #=== Mathematical modeling
 */Mathematical modeling/*:\n
