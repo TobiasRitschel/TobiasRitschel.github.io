@@ -1,6 +1,7 @@
 #################################################
 # YOU SHOULD NOT NEED TO MODIFY THE LINES BELOW #
 #################################################
+USER 			= tksr
 MAKEFILE  = ./makefile
 SOURCEDIR = ./src
 HTMLDIR   = ./html
@@ -24,7 +25,7 @@ $(WEBSITE): $(TARGET)
 	@cp -r $(SOURCEDIR) ..
 
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
-	@jemdoc $(SOURCE)
+	@./jemdoc.py $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
 
 clean:
