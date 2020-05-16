@@ -1,0 +1,58 @@
+# jemdoc: menu{MENU}{conference_publications.html}, showsource, analytics{UA-126705648-1}
+== Peer-reviewed conference publications
+
+=== 2020
+*Ritschel, T.K.S.*, Boiroux, D., Nielsen, M.K., Huusom, J.K., Jørgensen, S.B., Jørgensen, J.B., 2020. Economic Nonlinear Model Predictive Control of a U-loop Bioreactor. *In:* /Proceedings of the 2020 European Control Conference/, Saint Petersburg, Russia, May 12-15. Accepted.
+
+Jørgensen, J.B., *Ritschel, T.K.S.*, Boiroux, D., Schroll-Fleischer, E., Wahlgreen, M.R., Nielsen, M.K., Wu, H., Huusom, J.K., 2020. Simulation of NMPC for a Laboratory Adiabatic CSTR with an Exothermic Reaction. *In:* /Proceedings of the 2020 European Control Conference/, Saint Petersburg, Russia, May 12-15. Accepted.
+
+Wahlgreen, M.R., Schroll-Fleischer, E., Boiroux, D., *Ritschel, T.K.S.*, Wu, H., Huusom, J.K., Jørgensen, J.B., 2020. Nonlinear Model Predictive Control for an Exothermic Reaction in an Adiabatic CSTR. *In:* /Proceedings of the 6th Conference on Advances in Control and Optimization of Dynamical Systems/, Chennai, India, February 16-19.
+
+#Mahmoudi, Z., Boiroux, D., *Ritschel, T.K.S.*, Jørgensen, J.B., 2020. Nonlinear Filtering of the Blood Glucose Concentration using a Smart Phone and a Continuous Glucose Sensor. *In:* /Proceedings of the 6th Conference on Advances in Control and Optimization of Dynamical Systems/, Chennai, India, February 16-19. In submission.
+
+=== 2019
+Boiroux, D., *Ritschel, T.K.S.*, Poulsen, N. K., Madsen, H., Jørgensen, J.B., 2019. Efficient Computation of the Continuous-Discrete Extended Kalman Filter Sensitivities Applied to Maximum Likelihood Estimation. *In:* /Proceedings of the 58th IEEE Conference on Decision and Control/, Nice, France, December 11-13.
+
+Reenberg, A.T., Boiroux, D., *Ritschel, T.K.S.*, Jørgensen, J.B., 2019. Model Predictive Control of the Blood Glucose Concentration for Critically Ill Patients in Intensive Care Units. *In:* /Proceedings of the 58th IEEE Conference on Decision and Control/, Nice, France, December 11-13.
+
+*Ritschel, T.K.S.*, Boiroux, D., Nielsen, M.K., Huusom, J.K., Jørgensen, S.B., Jørgensen, J.B., 2019. Economic Optimal Control of a U-loop Bioreactor using Simultaneous Collocation-based Approaches. *In:* /Proceedings of the 3rd IEEE Conference on Control Technology and Applications/, Hong Kong, China, August 19-21. DOI: [https://doi.org/10.1109/CCTA.2019.8920479 10.1109/CCTA.2019.8920479].
+
+*Ritschel, T.K.S.*, Boiroux, D., Nielsen, M.K., Huusom, J.K., Jørgensen, S.B., Jørgensen, J.B., 2019. The Extended Kalman Filter for Nonlinear State Estimation in a U-loop Bioreactor. *In:* /Proceedings of the 3rd IEEE Conference on Control Technology and Applications/, Hong Kong, China, August 19-21. DOI: [https://doi.org/10.1109/CCTA.2019.8920643 10.1109/CCTA.2019.8920643].
+
+Hørsholt, A., Christiansen, L.H., *Ritschel, T.K.S.*, Meyer, K., Huusom, J.K., Jørgensen, J.B., 2019. State and Input Estimation of Nonlinear Chromatographic Processes. *In:* /Proceedings of the 3rd IEEE Conference on Control Technology and Applications/, Hong Kong, China, August 19-21. DOI: [https://doi.org/10.1109/CCTA.2019.8920651 10.1109/CCTA.2019.8920651].
+
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2019. Nonlinear Model Predictive Control for Disturbance Rejection in Isoenergetic-isochoric Flash Processes. IFAC-PapersOnLine, 52(1), 796--801. DOI: [https://doi.org/10.1016/j.ifacol.2019.06.159 10.1016/j.ifacol.2019.06.159].
+
+=== 2018
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Nonlinear Filters for State Estimation of UV Flash Processes. *In:* /Proceedings of the 2nd IEEE Conference on Control Technology and Applications/, 1753--1760, Copenhagen, Denmark, August 21-24. DOI: [https://doi.org/10.1109/CCTA.2018.8511532 10.1109/CCTA.2018.8511532].
+
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2018. The Extended Kalman Filter for State Estimation of Dynamic UV Flash Processes. IFAC-PapersOnLine, 51(8), 164--169. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.372 10.1016/j.ifacol.2018.06.372].
+
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Computation of Phase Equilibrium in Reservoir Simulation and Optimization. IFAC-PapersOnLine 51(8), 94--101. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.361 10.1016/j.ifacol.2018.06.361].
+
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Production Optimization of a Rigorous Thermal and Compositional Reservoir Flow Model. IFAC-PapersOnLine 51(8), 76--81. DOI: [https://doi.org/10.1016/j.ifacol.2018.06.358 10.1016/j.ifacol.2018.06.358].
+
+=== 2017
+*Ritschel, T.K.S.*, Capolei, A., Jørgensen, J.B., 2017. The Adjoint Method for Gradient-based Dynamic Optimization of UV Flash Processes. Computer Aided Chemical Engineering 40, 2071--2076. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50347-0 10.1016/B978-0-444-63965-3.50347-0].
+
+Drejer, A., *Ritschel, T.K.S.*, Jørgensen, S.B., Jørgensen, J.B., 2017. Economic Optimizing Control for Single-Cell Protein Production in a U-loop Reactor. Computer Aided Chemical Engineering 40, 1759--1764. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50295-6 10.1016/B978-0-444-63965-3.50295-6].
+
+Gaspar, J., *Ritschel, T.K.S.*, Jørgensen, J.B., 2017. An Efficient and Rigorous Thermodynamic Library and Optimal-control of a Cryogenic Air Separation Unit. Computer Aided Chemical Engineering 40, 1543--1548. DOI: [https://doi.org/10.1016/B978-0-444-63965-3.50259-2 10.1016/B978-0-444-63965-3.50259-2].
+
+*Ritschel, T.K.S.*, Gaspar, J., Jørgensen, J.B., 2017. A Thermodynamic Library for Simulation and Optimization of Dynamic Processes. IFAC-PapersOnLine 50(1), 3542--3547. DOI: [https://doi.org/10.1016/j.ifacol.2017.08.951 10.1016/j.ifacol.2017.08.951].
+
+*Ritschel, T.K.S.*, Capolei, A., Jørgensen, J.B., 2017. Dynamic Optimization of UV Flash Processes. *In:* /Proceedings of Foundations of Computer Aided Process Operations \/ Chemical Process Control 2017/, January 8-12, Tucson, Arizona, USA. [https://orbit.dtu.dk/en/publications/dynamic-optimization-of-uv-flash-processes Link].
+
+== Additional conference publications
+=== 2019
+Mahmoudi, Z., Boiroux, D., *Ritschel, T.K.S.*, Jørgensen, J.B., 2019. Filtering and Prediction of the Blood Glucose Concentration using an Android Smart Phone and a Continuous Glucose Monitor. arXiv: [https://arxiv.org/abs/1908.10234 1908.10234v1].
+
+=== 2018
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Production Optimization of Thermodynamically Rigorous Isothermal and Compositional Models. *In:* /Proceedings of the 16th European Conference on the Mathematics of Oil Recovery/, September 3-6, Barcelona, Spain. DOI: [https://doi.org/10.3997/2214-4609.201802112 10.3997/2214-4609.201802112].
+
+== Technical reports
+=== 2017
+*Ritschel, T.K.S.*, Jørgensen, J.B., 2017. Computation of Phase Equilibrium and Phase Envelopes. DTU Compute Technical Report-2017-11, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/id(bcd25ae4-ccf2-4e20-9279-459271b6ce73).html Link].
+
+=== 2016
+*Ritschel, T.K.S.*, Gaspar, J., Capolei, A., Jørgensen, J.B., 2016. An Open-source Thermodynamic Software Library. DTU Compute Technical Report-2016-12, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/an-opensource-thermodynamic-software-library(ebe0a493-c3fe-48d3-8d18-092bacf3e980).html Link].
