@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{conference_publications.html}, showsource, analytics{UA-126705648-1}
-== Peer-reviewed conference publications
+= Peer-reviewed conference publications
 
 === 2020
 *Ritschel, T.K.S.*, Boiroux, D., Nielsen, M.K., Huusom, J.K., Jørgensen, S.B., Jørgensen, J.B., 2020. Economic Nonlinear Model Predictive Control of a U-loop Bioreactor. *In:* /Proceedings of the 2020 European Control Conference/, Saint Petersburg, Russia, May 12-15. Accepted.
@@ -43,16 +43,9 @@ Gaspar, J., *Ritschel, T.K.S.*, Jørgensen, J.B., 2017. An Efficient and Rigorou
 
 *Ritschel, T.K.S.*, Capolei, A., Jørgensen, J.B., 2017. Dynamic Optimization of UV Flash Processes. *In:* /Proceedings of Foundations of Computer Aided Process Operations \/ Chemical Process Control 2017/, January 8-12, Tucson, Arizona, USA. [https://orbit.dtu.dk/en/publications/dynamic-optimization-of-uv-flash-processes Link].
 
-== Additional conference publications
+= Additional conference publications
 === 2019
 Mahmoudi, Z., Boiroux, D., *Ritschel, T.K.S.*, Jørgensen, J.B., 2019. Filtering and Prediction of the Blood Glucose Concentration using an Android Smart Phone and a Continuous Glucose Monitor. arXiv: [https://arxiv.org/abs/1908.10234 1908.10234v1].
 
 === 2018
 *Ritschel, T.K.S.*, Jørgensen, J.B., 2018. Production Optimization of Thermodynamically Rigorous Isothermal and Compositional Models. *In:* /Proceedings of the 16th European Conference on the Mathematics of Oil Recovery/, September 3-6, Barcelona, Spain. DOI: [https://doi.org/10.3997/2214-4609.201802112 10.3997/2214-4609.201802112].
-
-== Technical reports
-=== 2017
-*Ritschel, T.K.S.*, Jørgensen, J.B., 2017. Computation of Phase Equilibrium and Phase Envelopes. DTU Compute Technical Report-2017-11, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/id(bcd25ae4-ccf2-4e20-9279-459271b6ce73).html Link].
-
-=== 2016
-*Ritschel, T.K.S.*, Gaspar, J., Capolei, A., Jørgensen, J.B., 2016. An Open-source Thermodynamic Software Library. DTU Compute Technical Report-2016-12, Department of Applied Mathematics and Computer Science, Technical University of Denmark. [http://orbit.dtu.dk/en/publications/an-opensource-thermodynamic-software-library(ebe0a493-c3fe-48d3-8d18-092bacf3e980).html Link].
