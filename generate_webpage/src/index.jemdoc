@@ -16,42 +16,20 @@ Germany
 - E-mail: [mailto:ritschel@mpi-magdeburg.mpg.de ritschel@mpi-magdeburg.mpg.de]\n
 - Tel: [tel:+493916110349 +49 391 6110 349]
 
-#~~~
-#{}{raw}
-#<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-5843-240X" href="https://orcid.org/0000-0002-5843-240X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-5843-240X</a></div>
-#~~~
-
-#~~~
-#{}{raw}
-#<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-#<a href="http://dk.linkedin.com/in/tobiasritschel">
-#      
-#          <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Tobias Ritschel's profile on LinkedIn">
-#        
-#    </a>
-#~~~
-
 == Core competences
 */Algorithms/*:\n
 Nonlinear model order reduction | Nonlinear model predictive control | Optimal control | Dynamic optimization | State estimation | Numerical optimization | Numerical solution of differential equations
 
-#=== Mathematical modeling
 */Mathematical modeling/*:\n
 Stochastic differential equations | Partial differential equations | Differential-algebraic equations
+
+*/Applications/*:\n
+Power grids | Oil production | Bioreactors
 
 */Programming/*:\n
 C/C\+\+ | C\# | Python | Matlab
 
-#- Nonlinear model predictive control
-#- Dynamic optimization
-#- State estimation
-##- Closed-loop reservoir management
-#- High-performance computing
-##- Reservoir simulation
-##- Multi-scale Modelling
-
 == Public profiles
-#- [http://orbit.dtu.dk/en/persons/tobias-kasper-skovborg-ritschel(a350993c-cb5b-456b-96b4-f7e46f437916).html DTU Orbit]
 - [https://dk.linkedin.com/in/tobiasritschel LinkedIn]
 - [https://github.com/TobiasRitschel Github]
 - [https://orcid.org/0000-0002-5843-240X ORCID]
