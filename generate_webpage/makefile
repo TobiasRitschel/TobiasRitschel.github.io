@@ -25,7 +25,7 @@ $(WEBSITE): $(TARGET)
 	@cp -r $(SOURCEDIR) ..
 
 $(TARGET): $(PHOTO) $(STYLE) $(MENU) $(SOURCE) $(MAKEFILE)
-	@jemdoc.py $(SOURCE)
+	@jemdoc $(SOURCE)
 	@mv $(SOURCEDIR)/*.html $(HTMLDIR)
 
 clean:
