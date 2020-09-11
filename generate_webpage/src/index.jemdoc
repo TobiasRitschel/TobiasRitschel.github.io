@@ -24,7 +24,7 @@ Nonlinear model order reduction | Nonlinear model predictive control | Optimal c
 Stochastic differential equations | Partial differential equations | Differential-algebraic equations
 
 */Applications/*:\n
-Power grids | Oil production | Bioreactors
+Power grids | Phase equilibrium systems (e.g., in oil & gas) | Bioreactors
 
 */Programming/*:\n
 C/C\+\+ | C\# | Python | Matlab
