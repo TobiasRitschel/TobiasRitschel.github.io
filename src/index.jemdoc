@@ -1,0 +1,44 @@
+# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-126705648-1}
+= Tobias Kasper Skovborg Ritschel
+
+~~~
+{}{img_left}{./tksr.jpg}{}{126}{168}{}
+Tobias K. S. Ritschel\n
+Postdoctoral Researcher in the Simulation of Energy Systems (SES) team\n
+Team Leader: [https://www.mpi-magdeburg.mpg.de/person/26586 Sara Grundel]\n\n
+Computational Methods in Systems and Control Theory\n
+Max Planck Institute for Dynamics of Complex Technical Systems\n
+39106 Magdeburg\n
+Germany
+~~~
+
+== Contact
+- E-mail: [mailto:ritschel@mpi-magdeburg.mpg.de ritschel@mpi-magdeburg.mpg.de]\n
+- Tel: [tel:+493916110349 +49 391 6110 349]
+
+== Core competences
+*/Algorithms/*:\n
+Nonlinear model order reduction | Nonlinear model predictive control | Optimal control | Dynamic optimization | State estimation | Numerical optimization | Numerical solution of differential equations
+
+*/Mathematical modeling/*:\n
+Stochastic differential equations | Partial differential equations | Differential-algebraic equations
+
+*/Applications/*:\n
+Power grids | Phase equilibrium systems (e.g., in oil & gas) | Bioreactors
+
+*/Programming/*:\n
+C/C\+\+ | C\# | Python | Matlab
+
+== Public profiles
+- [https://dk.linkedin.com/in/tobiasritschel LinkedIn]
+- [https://github.com/TobiasRitschel Github]
+- [https://orcid.org/0000-0002-5843-240X ORCID]
+- [https://scholar.google.com/citations?user=ra88UJYAAAAJ&hl=en Google Scholar]
+- [https://www.researchgate.net/profile/Tobias_Ritschel ResearchGate]
+- [http://www.researcherid.com/rid/A-8267-2018 ResearcherID]
+- [https://www.scopus.com/authid/detail.uri?authorId=57196097177 Scopus]
+- [https://www.mendeley.com/profiles/tobias-k-s-ritschel/ Mendeley]
+- [http://forskningsdatabasen.dk/en/catalog/2397986061 Danish National Research Database]
+
+== Websites
+- [http://psetools.org/ PSE Tools]
