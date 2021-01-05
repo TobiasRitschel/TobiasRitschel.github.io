@@ -1,3 +1,0 @@
-Options +FollowSymlinks
-RewriteEngine on
-RewriteRule https://tobiasritschel.github.io https://tobiasritschel.github.io/journal_publications.html
