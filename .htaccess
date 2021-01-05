@@ -1,3 +1,3 @@
 Options +FollowSymlinks
 RewriteEngine on
-RewriteRule https://tobiasritschel.github.io/index.html https://tobiasritschel.github.io/journal_publications.html
+RewriteRule https://tobiasritschel.github.io https://tobiasritschel.github.io/journal_publications.html
