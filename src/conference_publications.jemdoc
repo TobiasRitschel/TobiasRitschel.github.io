@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{conference_publications.html}, showsource, analytics{UA-126705648-1}
 = Peer-reviewed conference publications
 
+#=== 2021
+#Wahlgreen, M.R., Reenberg, A.T., Nielsen, M.K., Rydahl, A., *Ritschel, T.K.S.*, Dammann, B., Jørgensen, J.B., 2021. A high-performance Monte Carlo simulation toolbox for uncertainty quantification of closed-loop systems. *In:* /Proceedings of the 60th Conference on Decision and Control (CDC), Austin, Texas, USA.
+
 === 2020
 *Ritschel, T.K.S.*, Boiroux, D., Nielsen, M.K., Huusom, J.K., Jørgensen, S.B., Jørgensen, J.B., 2020. Economic Nonlinear Model Predictive Control of a U-loop Bioreactor. *In:* /Proceedings of the 2020 European Control Conference/ (ECC), pp. 208--213, Saint Petersburg, Russia, May 12-15. DOI: [https://doi.org/10.23919/ECC51009.2020.9143629 10.23919/ECC51009.2020.9143629].
 
